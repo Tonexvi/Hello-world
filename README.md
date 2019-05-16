@@ -1,2 +1,5 @@
 # Hello-world
-First repository
+
+
+Krećemo,
+hope to learn python this year
